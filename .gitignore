@@ -5,6 +5,7 @@ db.json
 *.log
 node_modules/
 public/
+source/
 .deploy*/
 unuse/
 sftp.json
